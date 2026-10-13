@@ -9,4 +9,4 @@ jobs:
       - name: first-step
         run: echo "Hello World"
       - name: github checkout
-        uses: actions/checkout@v6
+        uses: actions/checkout@v7
